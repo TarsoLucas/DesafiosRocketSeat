@@ -1,2 +1,2 @@
 # Desafio RocketSeat
-Desafio de criar um site com receita de waffle *em progresso
+Desafio de criar um formulário de suporte
